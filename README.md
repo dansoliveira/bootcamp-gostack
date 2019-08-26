@@ -5,6 +5,10 @@ The challenges are placed in a different repository so that they become applicat
 
 ## NodeJS
 
-[Desafio 01. Conceitos do NodeJS](https://github.com/Rocketseat/bootcamp-gostack-desafio-01/blob/master/README.md#desafio-01-conceitos-do-nodejs)
+- **Study**
 
-- My solution: [Simple Project Manager API](https://github.com/dansoliveira/simple-project-manager#simple-project-manager-api)
+  - [NodeJS and REST API concepts](https://github.com/dansoliveira/bootcamp-gostack/tree/master/modulo01#nodejs)
+
+- **Challenges**
+
+  - [Simple Project Manager API](https://github.com/dansoliveira/simple-project-manager#simple-project-manager-api)
