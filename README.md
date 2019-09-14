@@ -8,8 +8,9 @@ The challenges are placed in a different repository so that they become applicat
 - **Study**
 
   - [NodeJS and REST API concepts](https://github.com/dansoliveira/bootcamp-gostack/tree/master/modulo01#nodejs)
+  - [GoBarber API](https://github.com/dansoliveira/gobarber/tree/master/backend#gobarber-api)
 
 - **Challenges**
 
   - [Simple Project Manager API](https://github.com/dansoliveira/simple-project-manager#simple-project-manager-api)
-  - [GoBarber API](https://github.com/dansoliveira/gobarber/tree/master/backend#gobarber-api)
+  
