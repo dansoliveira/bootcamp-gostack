@@ -12,3 +12,4 @@ The challenges are placed in a different repository so that they become applicat
 - **Challenges**
 
   - [Simple Project Manager API](https://github.com/dansoliveira/simple-project-manager#simple-project-manager-api)
+  - [GoBarber API](https://github.com/dansoliveira/gobarber/tree/master/backend#gobarber-api)
